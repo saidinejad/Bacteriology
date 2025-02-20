@@ -1,0 +1,492 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "7d9f6957-ef6c-11ef-b8fb-d4548b111f10",
+    "deck_config_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 8000
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-b43bbb1b2927182eaf556f2ca53d8acfb4a7d433.jpg"
+    ],
+    "name": "Bacteriology",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 991874920854447928,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1529952001305201627,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": "N4.L@20d5bf3",
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -8159597958868431343,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "ریبوزوم های یوکاریوت و پروکاریوت",
+                "یوکاریوت: 60s+40s=80s<br>پروکاریوت: 30s+50s=70s"
+            ],
+            "guid": "IBLV)K^vL_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "یوباکتر ها دارای اینترون هستند ",
+                "نه"
+            ],
+            "guid": "M>Hq05$-D{",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کار اندامک ها در پروکاریوت ها به عهده چیست؟",
+                "مزوزوم"
+            ],
+            "guid": "D!sxr@cCdX",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "غشای پلاسمایی باکتری ها دارای کلسترول است",
+                "نه"
+            ],
+            "guid": "qBCx+ZdFR?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مزوزوم چیست؟",
+                "قسمتی از غشا که به داخل سیتوپلاسم پیچ خورده است"
+            ],
+            "guid": "f}/=tRN1t7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اتصال مروزوم با dna",
+                "هیدروفوبیک"
+            ],
+            "guid": "td$Cojh~=8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "۳ نوع گرانول باکتری ها + مثال",
+                "(Inclusion)<br>Metachromatic= volutin + protein + lipid + phosphate  (کورینوباکتر دیفتری، مایکوباکتریوم توبرکلوزیس)<br>Polysaccharide (glycogen) (کلستریدیوم روده)<br>Sulfate (احیا کننده گوگرد محیطی)"
+            ],
+            "guid": "y1mWs*6S*d",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ذرات عفونی",
+                "پریون<br>ویرویید"
+            ],
+            "guid": "yq2[cE8.,1",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پریون ها:<br>جنس<br>مثال بیماری(۳ تا انسانی یکی حیوانی)",
+                "پروتیین فاقد RNA<br><br>جنون گاوی یا کروتزفلد جاکوب یا BSE<br>کورو<br>بی خوابی کشنده خانوادگی<br>اسکراپی (گوسفند) و جنون گاوی (گاو)"
+            ],
+            "guid": "e^]BWcXm~_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد کروتزفلد جاکوب یا جنون گاوی",
+                "تغییر شکل پروتیین های روی سطح سلول عصبی (PrP-c) به PrP-sc<br><br>PrP-c -> alpha helix<br>PrP-sc -> beta sheet ( ساختار بسیار سخت مقاوم به پروتئاز)<br><br>منجر به ورم مغزی و آنسفالوپاتی"
+            ],
+            "guid": "DT>T#f@D?]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شباهت ویروس ها با پریون ها و ویرویید ها",
+                "ساختاری شبیه پریون ها<br>ماده ژنتیکی شبیه ویرویید ها"
+            ],
+            "guid": "v,h`}J~~6.",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "۴ ویژگی آرکوباکتر ها",
+                "اجداد یوباکتر ها<br>دارای پیوند دی سولفیدی<br>دیواره سلولی سرشار از پپتیدوگلیکان متفاوت با یوباکتر<br>دارای چربی ایزوپرنویید روی سطح دیواره <br>دارای اینترون"
+            ],
+            "guid": "IEdAiq64zi",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنها یوباکتر دارای پیوند دی سولفیدی",
+                "کلامیدیا تراکوماتیس"
+            ],
+            "guid": "blT_uFe)g|",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ترموفیل<br>هالوفیل<br>بازوفیل، اسیدوفیل<br>سایکروفیل<br>اکسترموفیل",
+                "مقاوم به دمای بالا<br>مقاوم به نمک<br>مقاوم به باز، اسید<br>مقاوم به دمای پایین<br>مقاوم به همه چی"
+            ],
+            "guid": "e@L_:%BZiu",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "قوانین کخ",
+                "اگر یک باکتری پاتوژن باشد برای همه جانداران پاتوژن است<br>اگر یک باکتری پاتوژن باشد قابلیت کشت دارد و توانایی بیماری‌زایی رو حفظ میکنه"
+            ],
+            "guid": "P}x#Mgoj,Q",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مثال نقض قوانین کخ",
+                "ترپونما پالیدوم (عامل سفیلیس) (تشخیص با تست rpr)"
+            ],
+            "guid": "L.(,i[oj]$",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Taxonomy",
+                "تقسیم بندی"
+            ],
+            "guid": "H=X/Bn{Hpi",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع نایسریا<br>بیماری<br>گرم",
+                "نایسریا گنوره‌آ/نایسریا منژیتیس<br>سوزاک/مننژیت<br>منفی"
+            ],
+            "guid": "uXpr]ZIz@E",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کاربرد LTA<br>انواع",
+                "استحکام<br>اتصال به میزبان یا فاژها<br>۱۵ نوع"
+            ],
+            "guid": "r,T[u%&)a0",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پیچیدگی باکتری های گرم منفی بیشتر است یا مثبت",
+                "منفی"
+            ],
+            "guid": "qyPX+`CbB8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی‌های غشای باکتری های گرم مثبت",
+                "دارای teichoic acid و LipoTeichoic Acid<br>۳۰ لایه‌ پپتیدوگلیکان"
+            ],
+            "guid": "xp7=Rv7H()",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت های باکتری های گرم مثبت و منفی",
+                "<img src=\"paste-b43bbb1b2927182eaf556f2ca53d8acfb4a7d433.jpg\">"
+            ],
+            "guid": "pDmqy{<~cR",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی های غشای باکتری گرم منفی",
+                "فضای پری پلاسمیک -» غنی از آنزیم های هیدرولاز<br>دارای غشای خارجی دو لایه -» LPS<br>دارای ۱ تا ۳ لایه پپتیدوگلیکان<br>دارای پورین"
+            ],
+            "guid": "b;`D^D~N|]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آنزیم های هیدرولاز موجود در فضای پری پلاسمیک:",
+                "کلاژناز<br>هیالورونیداز<br>پروتئاز<br>بتالاکتاماز (مقاومت انتی بیوتیکی به پنی سیلین)<br>"
+            ],
+            "guid": "G~WPBOjn]p",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "لایه های غشای خارجی باکتری گرم منفی",
+                "داخلی:<br>غنی از چربی فسفولیپید<br>خارجی:<br>غنی از لیپوپلی ساکارید (LPS) یا اندوتوکسین"
+            ],
+            "guid": "tbeY)E&jhf",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ساختار LPS",
+                "Lipid A<br>Core (در همه ثابت)<br>Antigen O"
+            ],
+            "guid": "Ki1/~N!K_M",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lipid A<br>ساختار<br>عملکرد",
+                "دو قند N-استیل گلوکز آمین <br>اسید چرب ۱۴ کربنه (استثنا ۱۲ کربنه هم هست) = myristic acid<br><br>مسئول اندوتوکسین بودن (خاصیت بیولوژیک) LPS<br>تحریک کننده التهاب (سه قلوی التهابی) -» واکنش شوارتزمن = تب، لکوسیتوز، افت قند خون، افت فشار خون، DIC (انعقاد داخل عروقی منتشر)"
+            ],
+            "guid": "h2dUC3MCwz",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ساختار<br>Core<br>Antigen O",
+                "دو نوع قند:<br>[inner core] کتود اکتانوییک اسید Kdo (اختصاصی)<br>[Outer core] قندهای هپتوز<br><br>توالی های سه تایی تکراری قند ها "
+            ],
+            "guid": "r=-R8q#VB[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "با افزایش طول زنجیره antigen O ایمنی زایی ..... میشود",
+                "بیشتر"
+            ],
+            "guid": "tQV2wz]!5`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lipid A کدام گیرنده های ایمنی را تحریک میکند؟",
+                "ایمنی ذاتی TLR 4"
+            ],
+            "guid": "A?jQoArdUU",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is LOS<br>Examples ",
+                "LipoOligoSaccharid<br>دارای ۸ تا ۱۰ قند در antigen o<br><br>نایسریا (گنوره آ ، مننژیتیس)<br>هموفیلوس انفولانزا"
+            ],
+            "guid": "Mw(1{gFnat",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری های گرم مثبت و گرم منفی در مواجهه با لیزوزیم",
+                "گرم مثبت -» دیواره قوی -» از بین رفتن پپتیدوگلیکان -» پروتوپلاست<br>گرم منفی -» بخشی از غشای خارجی میمونه(LPS میشکنه) -» اسفروپلاست"
+            ],
+            "guid": "zJLoM-go7`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فلاژل ها و پپتیدوگلیکان (مورین) به ترتیب کدام TLR را تحریک میکنند؟",
+                "5<br>2"
+            ],
+            "guid": "GBLv0UfLbR",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
