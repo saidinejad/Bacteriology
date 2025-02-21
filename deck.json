@@ -63,7 +63,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 8000
+                "perDay": 200
             },
             "reviewOrder": 0,
             "secondsToShowAnswer": 0.0,
@@ -80,7 +80,15 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
-        "paste-b43bbb1b2927182eaf556f2ca53d8acfb4a7d433.jpg"
+        "paste-0763a76dbbef9719c18de407bca8407647493450.jpg",
+        "paste-1a2529e1f4416840475bf4d4501cc8eae5196844.jpg",
+        "paste-361ed319480fa8c78c579fe68aa45894148cd543.jpg",
+        "paste-378f23a472f3ecaca22a5adbae50c4529a2200a3.jpg",
+        "paste-3995ae30dc61b8b439d285b1192f82e8eda0c6e8.jpg",
+        "paste-8346ce5254b41f0070eaa1e603aea0a1b7196507.jpg",
+        "paste-9f7528987a5fc54a7b4a45875c3491dfcd3bcbdb.jpg",
+        "paste-b43bbb1b2927182eaf556f2ca53d8acfb4a7d433.jpg",
+        "paste-fb28b4e6d5ffe06c2b4d66a2ac32d5355c16dbe6.jpg"
     ],
     "name": "Bacteriology",
     "newLimit": null,
@@ -370,7 +378,7 @@
             "__type__": "Note",
             "fields": [
                 "تفاوت های باکتری های گرم مثبت و منفی",
-                "<img src=\"paste-b43bbb1b2927182eaf556f2ca53d8acfb4a7d433.jpg\">"
+                "<img src=\"paste-b43bbb1b2927182eaf556f2ca53d8acfb4a7d433.jpg\"><br><img src=\"paste-361ed319480fa8c78c579fe68aa45894148cd543.jpg\">"
             ],
             "guid": "pDmqy{<~cR",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -410,7 +418,7 @@
             "__type__": "Note",
             "fields": [
                 "ساختار LPS",
-                "Lipid A<br>Core (در همه ثابت)<br>Antigen O"
+                "Lipid A<br>Core (در همه ثابت)<br>Antigen O<br><img src=\"paste-378f23a472f3ecaca22a5adbae50c4529a2200a3.jpg\">"
             ],
             "guid": "Ki1/~N!K_M",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -483,6 +491,376 @@
                 "5<br>2"
             ],
             "guid": "GBLv0UfLbR",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اشکال مختلف باکتری ها (۶ حالت)",
+                "کوکسی گروی<br>باسیلوس میله‌ای<br>ویبریو خمیده<br>اسپیرال فنری<br>اسپیروکت فشرده فنری<br>کوکوباسیلوس نه گرد نه میله‌ای<br><img src=\"paste-fb28b4e6d5ffe06c2b4d66a2ac32d5355c16dbe6.jpg\">"
+            ],
+            "guid": "DEq)0p[@S%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اشکال اجتماع های باکتری",
+                "دیپلو دوتایی<br>تتراد ۴تایی<br>استرپتو زنجیره‌<br>استافیلو خوشه<br>سارسینا ۸تایی<br><img src=\"paste-8346ce5254b41f0070eaa1e603aea0a1b7196507.jpg\">"
+            ],
+            "guid": "m*;)X7O>8.",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ساختار پیش ساز پپتیدوگلیکان<br>مولکول انتقالی",
+                "الف. N-استیل گلوکز آمین (پیش ساز اون یکی) + N-استیل مورامیک (قند اصلی)<br>ب. قسمت پروتیینی: L-آلانین + D-گلوتامیک اسید + L-لایزین + D-آلانین + ( D-آلانین )<br><img src=\"paste-3995ae30dc61b8b439d285b1192f82e8eda0c6e8.jpg\"><br>اندوکاپرنال C55-isoprenyl pyrophosphate "
+            ],
+            "guid": "snKKI%Usp^",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت ساخت پپتیدوگلیکان باکتری با انسان",
+                "توسط انزیم ساخته می شود (در انسان با ریبوزم)"
+            ],
+            "guid": "fGnz%$V.[^",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پیش ساز L-لایزین چیست و در پپتیدوگلیکان کدام نوع باکتری دیده میشود؟",
+                "دی آمینو بی هلیک اسید (به جای خود L-لایزین)<br>گرم منفی"
+            ],
+            "guid": "zupzabFvCD",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اتصال بین پپتیدوگلیکان ها کجا و توسط کدام انزیم انجام میشود؟",
+                "آمینو اسید سوم L-لایزین به چهارمین D-الانین (که پنجمیش رو از دست میده)<br><br>توسط کربوکسی پپتیداز پنجمین امینو اسید میشکنه<br>توسط ترانس پپتیداز پیوند تشکیل می شود<br>مجموعا = پنی سیلین بایندینگ پروتیین (PBP)"
+            ],
+            "guid": "E[|/LE%gAI",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نحوه اثر پنی سیلین بر غشای باکتری",
+                "مستقیم:<br>به PBP وصل میشه (دیواره تشکیل نمیشه)<br>غیر مستقیم:<br>قطعات پیش ساز پپتیدوگلیکان آزاد -» فعال کردن بیش از حد انزیم اتولایزین -» لیز باکتری"
+            ],
+            "guid": "PCJW/!{_{J",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انزیم اتولایزین",
+                "موجود در غشا<br>تعدیل قطعات پیش ساز پپتیدوگلیکان ازاد و کنترل آرایش‌شان"
+            ],
+            "guid": "q{A/9/%|N?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vancomycin ",
+                "انتهای D-الانین رو بلاک میکنه <br>جلوی سنتز پپتیدوگلیکان رو میگیره"
+            ],
+            "guid": "m(EaZd%~Sb",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتریوسید و باکتریواستاتیک",
+                "مرگ باکتری<br>مهار رشد باکتری (سیستم ایمنی اینجا قاتله)"
+            ],
+            "guid": "u#&xT0Q)F}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اتصال پپتیدوگلیکان ها به وسیله آمینواسید در کدام نوع صورت میگیرد؟<br>چه امینواسیدی؟",
+                "استافیلوکوک ها (گرم مثبت)<br>۵ تا گلایسین (پنتوگلایسین)<br><br>دیواره محکم تر"
+            ],
+            "guid": "BatkD)`l+X",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ساختار و کاربرد فلاژل",
+                "(تاژک)<br>Hook + motor + filament<br>کموتاکسی<br><img src=\"paste-0763a76dbbef9719c18de407bca8407647493450.jpg\">"
+            ],
+            "guid": "m-]-yym8L-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انرژی مصرفی فلاژل باکتری ",
+                "Proton Motive Force PMF<br>عبور پروتون از غشا در قسمت موتور"
+            ],
+            "guid": "qKqj.E|~Pb",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کموتاکسی چیست",
+                "حرکت باکتری به سمتی که بتواند زنده بماند (فرار میکنه یا دنبال غذا می‌ره)"
+            ],
+            "guid": "K6t;Y;F%C}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع باکتری از نظر فلاژل",
+                "مونوتریش<br>آمفی تریش<br>لوفوتریش<br>پری تریش<br><img src=\"paste-9f7528987a5fc54a7b4a45875c3491dfcd3bcbdb.jpg\">"
+            ],
+            "guid": "kyI/}OWY5<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نقش فلاژل در بیماری زایی + استثنا",
+                "نقش اندک<br>به جز هلیکوباکتر پیلوری (نقش اساسی)"
+            ],
+            "guid": "hI,zWXJ$XQ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویرولانس فاکتور",
+                "فاکتور مهم بیماری زایی"
+            ],
+            "guid": "1f`$6u?rl",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علل خطرناک بودن هلیکوباکتر پیلوری",
+                "مقاومت بالا به انتی بیوتیک<br>دارای فلاژل (فرار از اسید معده به زیر مخاط)<br>دارای آنزیم اوره آز (قلیایی کردن محیط)<br>(فاقد کپسول) غلاف برای فلاژل"
+            ],
+            "guid": ")b9wV5d*z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع پیلی و تفاوتشان",
+                "(مژک)<br>اتصالی: به میزبان<br>جنسی: به باکتری، انتقال پلازمید"
+            ],
+            "guid": "qKYo-8J?Z0",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "واحد پیلی و فلاژل",
+                "پیلین<br>فلاژلین"
+            ],
+            "guid": "c)>4-Cf7FM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری های دارای کدام ژن پیلی <b>جنسی</b> دارن؟",
+                "ژن F در پلازمید"
+            ],
+            "guid": "Gl_>`R/FK&",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "به انتقال پلازمید بین باکتری ها .... میگویند",
+                "هم یوغی / conjugation"
+            ],
+            "guid": "b$oQW}-93-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اتصال باکتری ها با پیلی جنسی به کدام گیرنده‌ی باکتری پذیرنده است؟",
+                "پروتیین A (پورین A، در غشای خارجی -» گرم منفی) گیرنده‌ی اختصاصی پیلی F "
+            ],
+            "guid": "e-|ZabqpAe",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پیلی برخلاف فلاژل در پاتوژنز نقش دارد.",
+                "درسته"
+            ],
+            "guid": "i<PAq|OYZ/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پیلی در بیماری زایی کدام باکتری نقش خیلی مهمی دارد؟",
+                "نایسریا گنوره آ (کمک میکنه که هی تغییر شکل بده، پس انتی بادی سابق روش بی اثر میشه)"
+            ],
+            "guid": "j7h&-`*O~,",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پیلی اغلب روی باکتری گرم ..... قرار دارد.",
+                "منفی <br>(کپسول و فلاژل گرم‌ها براشون فرقی نداره)"
+            ],
+            "guid": "EA;btW~nC^",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کپسول:<br>جنس<br>خاصیت<br>معروف ترین باکتری دارای کپسول",
+                "پلی ساکاریدی (گلیکوکالیکسی)<br>چسبندگی و ضد فاگوسیتی antiphagocytic<br>پنوموکوک (کپسول خیلی ضخیم) (باعث پنومونی و مننژیت)"
+            ],
+            "guid": "c5[|iT5TDC",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری های دارای کپسول پروتیینی",
+                "باسیلوس آنتراسیس عامل سیاه زخم (گلوتامیک)<br>پرسینیا پستیس عامل طاعون (نازک)"
+            ],
+            "guid": "o[l9@`M]eE",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کپسول از همان اول قطعا وجود دارد.",
+                "نه <br>ممکنه ژنش فعال شه و بعد ساخته شه<br>مثل سودوموناس آیروژینوزا (بیمارستانی)"
+            ],
+            "guid": "ua}zns}5>:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تمام باکتری ها میتوانند اسپور داشته باشند.",
+                "نه"
+            ],
+            "guid": "jD+q]+Ao`Z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در چه شرایطی اسپور ساخته می شود؟",
+                "کم آبی<br>کمبود آلانین (و لایزین)<br>کاهش ph "
+            ],
+            "guid": "B#rgu{<:,0",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "منبع انرژی اسپور",
+                "۳فسفو گلیسرات"
+            ],
+            "guid": "nJJmAh3HMu",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو خانواده باکتری بیماری زای دارای اسپور",
+                "کلستریدیوم (کزاز یا تتانی)<br>باسیلوس (سیاه زخم)"
+            ],
+            "guid": "As#.U3.{>Z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی های اسپور",
+                "حداقل متابولیسم<br>فاقد توانایی تولید مثل<br>قابلیت تبدیل به فرم رویشی"
+            ],
+            "guid": "eWi5Q0?2[/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تبدیل فرم اسپور به فرم رویشی",
+                "ورثاتیو<br>Vegetative "
+            ],
+            "guid": "yKI_!et;3U",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ساختار اسپور",
+                "Core ماده ژنتیکی<br>Cortex: غنی از ۱. پیوند های پپتیدوگلیکان غیرطبیعی ۲. دی پیکولینات کلسیم<br>Coat(شبه کراتینی): غنی از پروتیین و پیوند دی سولفیدی<br><img src=\"paste-1a2529e1f4416840475bf4d4501cc8eae5196844.jpg\">"
+            ],
+            "guid": "b!V48(9Ba>",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کاربرد دی پیکولینات کلسیم در اسپور",
+                "ایجاد مقاومت شیمیایی"
+            ],
+            "guid": "uuN<`oZ0%F",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
             "tags": []
         }
