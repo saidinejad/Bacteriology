@@ -863,6 +863,16 @@
             "guid": "uuN<`oZ0%F",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "این یه تسته",
+                "صهبا دنیز"
+            ],
+            "guid": "el=glPxr:A",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
         }
     ],
     "reviewLimit": null,
