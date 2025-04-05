@@ -80,15 +80,31 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "paste-04f5a93e4d9d9638ce2197e667908bca2d763375.jpg",
         "paste-0763a76dbbef9719c18de407bca8407647493450.jpg",
+        "paste-08a6b17f281a9cbe29c67023a1e68645b20d9ea7.jpg",
+        "paste-16f5957b2a69bccec5b4088567b6f6e39b34603e.jpg",
         "paste-1a2529e1f4416840475bf4d4501cc8eae5196844.jpg",
         "paste-361ed319480fa8c78c579fe68aa45894148cd543.jpg",
         "paste-378f23a472f3ecaca22a5adbae50c4529a2200a3.jpg",
         "paste-3995ae30dc61b8b439d285b1192f82e8eda0c6e8.jpg",
+        "paste-451151674850d333d1cd7b086879064036bbfa0f.jpg",
+        "paste-49d5b461ef04992c8b45bebb5899d4413ed291d5.jpg",
+        "paste-508839914557b19017e6d0f256ea56a85d6bbbef.jpg",
+        "paste-50b7e7135f98adb60ede83c0fb6572763d62991d.jpg",
+        "paste-5c477bb0a5e4c812d51c4162f5fe9954faed1d32.jpg",
+        "paste-6f4917c4bdaf309208e46dc78c70ce274b9911a3.jpg",
         "paste-8346ce5254b41f0070eaa1e603aea0a1b7196507.jpg",
+        "paste-93c8a3986b45593ec146f7f6a26efb333cc62c61.jpg",
         "paste-9f7528987a5fc54a7b4a45875c3491dfcd3bcbdb.jpg",
+        "paste-a3f23eaa32083c4330e70970d1c090986581f882.jpg",
+        "paste-ac8be1cf5d7ff98ac34c852d247709c872c9878a.jpg",
         "paste-b43bbb1b2927182eaf556f2ca53d8acfb4a7d433.jpg",
-        "paste-fb28b4e6d5ffe06c2b4d66a2ac32d5355c16dbe6.jpg"
+        "paste-d5ec15a7644b4678214b054d66dfab7d8504cc61.jpg",
+        "paste-ef56cf6072d38477a7c20fc99e88e05c960909e7.jpg",
+        "paste-f2c8eac62c1139be34f5680dd70ae0bd6f01abe4.jpg",
+        "paste-fb28b4e6d5ffe06c2b4d66a2ac32d5355c16dbe6.jpg",
+        "paste-feb484e18c1a9cf5201b6ade05a1f6c832f38ed4.jpg"
     ],
     "name": "Bacteriology",
     "newLimit": null,
@@ -145,7 +161,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": "N4.L@20d5bf3",
+            "tags": "N4.L@8a40cf6",
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -161,6 +177,120 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f19a8517-ef6f-11ef-9908-d4548b111f10",
+            "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7525245898866314977,
+                    "name": "Occlusion",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4563712497999825950,
+                    "name": "Image",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -3407267547161784728,
+                    "name": "Header",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 2
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -6898126710737591114,
+                    "name": "Back Extra",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 3
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1379972939400525484,
+                    "name": "Comments",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 4
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion",
+            "originalStockKind": 6,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{#Header}}<div>{{Header}}</div>{{/Header}}\n<div style=\"display: none\">{{cloze:Occlusion}}</div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    {{Image}}\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.imageOcclusion.setup();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n</script>\n\n<div><button id=\"toggle\">Toggle Masks</button></div>\n{{#Back Extra}}<div>{{Back Extra}}</div>{{/Back Extra}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -6341684870955231473,
+                    "name": "Image Occlusion",
+                    "ord": 0,
+                    "qfmt": "{{#Header}}<div>{{Header}}</div>{{/Header}}\n<div style=\"display: none\">{{cloze:Occlusion}}</div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    {{Image}}\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.imageOcclusion.setup();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n</script>\n"
+                }
+            ],
+            "type": 1
         }
     ],
     "notes": [
@@ -168,7 +298,7 @@
             "__type__": "Note",
             "fields": [
                 "ریبوزوم های یوکاریوت و پروکاریوت",
-                "یوکاریوت: 60s+40s=80s<br>پروکاریوت: 30s+50s=70s"
+                "یوکاریوت: <br>60s+40s=80s<br>پروکاریوت: <br>30s+50s=70s"
             ],
             "guid": "IBLV)K^vL_",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -247,8 +377,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "پریون ها:<br>جنس<br>مثال بیماری(۳ تا انسانی یکی حیوانی)",
-                "پروتیین فاقد RNA<br><br>جنون گاوی یا کروتزفلد جاکوب یا BSE<br>کورو<br>بی خوابی کشنده خانوادگی<br>اسکراپی (گوسفند) و جنون گاوی (گاو)"
+                "پریون ها:<br>جنس<br>مثال بیماری(۳ تا انسانی ۲ تا حیوانی)",
+                "پروتیین فاقد RNA<br><br>جنون گاوی یا کروتزفلد جاکوب BSE<br>کورو<br>بی خوابی کشنده خانوادگی<br>اسکراپی (گوسفند) و جنون گاوی (گاو)"
             ],
             "guid": "e^]BWcXm~_",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -318,7 +448,7 @@
             "__type__": "Note",
             "fields": [
                 "مثال نقض قوانین کخ",
-                "ترپونما پالیدوم (عامل سفیلیس) (تشخیص با تست rpr)"
+                "ترپونما پالیدوم (عامل سفیلیس) (تشخیص با تست rpr)<br><br>قابل کشت نیست"
             ],
             "guid": "L.(,i[oj]$",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -348,7 +478,7 @@
             "__type__": "Note",
             "fields": [
                 "کاربرد LTA<br>انواع",
-                "استحکام<br>اتصال به میزبان یا فاژها<br>۱۵ نوع"
+                "استحکام<br>اتصال به میزبان یا فاژها<br><br>۱۵ نوع"
             ],
             "guid": "r,T[u%&)a0",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -428,7 +558,7 @@
             "__type__": "Note",
             "fields": [
                 "Lipid A<br>ساختار<br>عملکرد",
-                "دو قند N-استیل گلوکز آمین <br>اسید چرب ۱۴ کربنه (استثنا ۱۲ کربنه هم هست) = myristic acid<br><br>مسئول اندوتوکسین بودن (خاصیت بیولوژیک) LPS<br>تحریک کننده التهاب (سه قلوی التهابی) -» واکنش شوارتزمن = تب، لکوسیتوز، افت قند خون، افت فشار خون، DIC (انعقاد داخل عروقی منتشر)"
+                "دو قند N-استیل گلوکز آمین <br>اسید چرب ۱۴ کربنه (استثنا ۱۲ کربنه هم هست) = myristic acid<br><br>مسئول اندوتوکسین بودن (خاصیت بیولوژیک) LPS<br>تحریک کننده التهاب (سه قلوی التهابی) -» واکنش شوارتزمن = تب، لکوسیتوز، افت قند خون، افت فشار خون، DIC (انعقاد داخل عروقی منتشر)<br><img src=\"paste-451151674850d333d1cd7b086879064036bbfa0f.jpg\">"
             ],
             "guid": "h2dUC3MCwz",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -478,7 +608,7 @@
             "__type__": "Note",
             "fields": [
                 "باکتری های گرم مثبت و گرم منفی در مواجهه با لیزوزیم",
-                "گرم مثبت -» دیواره قوی -» از بین رفتن پپتیدوگلیکان -» پروتوپلاست<br>گرم منفی -» بخشی از غشای خارجی میمونه(LPS میشکنه) -» اسفروپلاست"
+                "گرم مثبت -» دیواره قوی -» از بین رفتن پپتیدوگلیکان -» پروتوپلاست<br>گرم منفی -» بخشی از غشای خارجی میمونه(LPS میشکنه) -» اسفروپلاست<br><br>به طور کل میگیم تاثیرش روی گرم مثبتا بیشتره"
             ],
             "guid": "zJLoM-go7`",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -537,7 +667,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "پیش ساز L-لایزین چیست و در پپتیدوگلیکان کدام نوع باکتری دیده میشود؟",
+                "پیش ساز L-لایزین چیست و در پپتیدوگلیکانِ کدام نوع باکتری دیده میشود؟",
                 "دی آمینو بی هلیک اسید (به جای خود L-لایزین)<br>گرم منفی"
             ],
             "guid": "zupzabFvCD",
@@ -548,7 +678,7 @@
             "__type__": "Note",
             "fields": [
                 "اتصال بین پپتیدوگلیکان ها کجا و توسط کدام انزیم انجام میشود؟",
-                "آمینو اسید سوم L-لایزین به چهارمین D-الانین (که پنجمیش رو از دست میده)<br><br>توسط کربوکسی پپتیداز پنجمین امینو اسید میشکنه<br>توسط ترانس پپتیداز پیوند تشکیل می شود<br>مجموعا = پنی سیلین بایندینگ پروتیین (PBP)"
+                "آمینو اسید سوم L-لایزین به چهارمین D-الانین <br>(که پنجمیش رو از دست میده)<br><br>توسط کربوکسی پپتیداز پنجمین امینو اسید میشکنه<br>توسط ترانس پپتیداز پیوند تشکیل می شود<br>مجموعا(کربوکسی + ترانس پپتیداز) = پنی سیلین بایندینگ پروتیین (PBP)"
             ],
             "guid": "E[|/LE%gAI",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -861,6 +991,1669 @@
                 "ایجاد مقاومت شیمیایی"
             ],
             "guid": "uuN<`oZ0%F",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری فرصت طلب",
+                "سودوموناس آیروژینوزا"
+            ],
+            "guid": "P:@!K:~%c%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنوع آنزیمی در پروکاریوت ها بیشتر است یا یوکاریوت ها؟ چرا؟",
+                "پروکاریوت ها زیرا در شرایط متنوع تری زندگی میکنند و فاقد اندامک هستند"
+            ],
+            "guid": "r!T]m!1GeA",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "منبع تامین کربن در اتوتروف ها و هتروتروف ها چه تفاوتی دارد؟",
+                "اتوتروف = CO2<br>هتروتروف = کربن آلی"
+            ],
+            "guid": "w^p)x5hxZe",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری هایی که میتوانند در بدن انسان زندگی کنند منبع تامین کربن و انرژی شان چیست؟",
+                "کربن آلی + اکسیداسیون شیمیایی<br>شیمیوهتروتروف هستند"
+            ],
+            "guid": "l~BkVnY-OQ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "واکنش های متفاوتی که برای تامین نیتروژن در باکتری ها انجام میشود را توضیح دهید:",
+                "تثبیت نیتروژن = تبدیل ازت N3 به آمونیاک<br>آمونیوفیکاسیون = دآمینه کردن ترکیبات آمینی و به دست آوردن آمونیاک<br>assimilatory nitrate reduction + assimilatory nitrite reduction = تبدیل نیترات یا نیتریت به آمونیاک<br>نیتریفیکاسیون = تبدیل آمونیاک به نیتریت یا نیترات<br>دنیتریفیکاسیون = تبدیل آمونیاک به نیتروژن"
+            ],
+            "guid": "I?8{N+qD}=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری ای با قابلیت دنیتریفیکاسیون:",
+                "سودوموناس"
+            ],
+            "guid": "c=,YOxK%ZS",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنها موجوداتی که میتوانند گوگرد را به شکل عنصری مصرف کنند باکتری ها هستند.",
+                "درسته بقیه از سولفات برای منبع گوگرد استفاده می کنند"
+            ],
+            "guid": "q4fStdWeze",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "H2S نیز میتواند منبع گوگرد باشد برای باکتری ها؟",
+                "بله"
+            ],
+            "guid": "iE*?2$pBiy",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فسفر همواره به فرم ..... مصرف میشود",
+                "معدنی"
+            ],
+            "guid": "ij&PosbHT0",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کاربرد یون کلسیم و پتاسیم و منیزیم در باکتری ها:",
+                "کلسیم : دیواره سلولی گرم مثبت ها<br>پتاسیم و منیزیم : ریبوزوم"
+            ],
+            "guid": "gAFBREA9J<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is fastidious bacteria?",
+                "باکتری سخت رشد<br>محیط کشت غنی ای برای رشد نیاز داره<br>مقابله باهاش اسونه"
+            ],
+            "guid": "L4)9g.=9Ar",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری های بیماری زا و فلور نرمال انسانی از نظر دمایی چه نوعی هستند؟",
+                "mesophil&nbsp;<br>نه گرمادوست نه سرمادوست<br>دوستدار دمای متوسط"
+            ],
+            "guid": "BjNwzUDQ~&",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هوا میتواند موجب مرگ باکتری های کم هوا دوست شود؟",
+                "در غلظت های بالا بله"
+            ],
+            "guid": "r1@IzfLK[<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری ها از نظر هوا دوستی در لوله کشت:",
+                "<img src=\"paste-ef56cf6072d38477a7c20fc99e88e05c960909e7.jpg\">"
+            ],
+            "guid": "zy<Yg6VmY4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چه آنزیمی آب اکسیژنه را به آب و اکسیژن تبدیل می کند؟",
+                "کاتالاز"
+            ],
+            "guid": "q2xD/VOM2B",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری هایی که معکوس باکتری های هالوفیل عمل میکنند چه نام دارند؟",
+                "اسموفیل (تمایل به محیط با فشار اسمزی بالا)"
+            ],
+            "guid": "c8c2?;z=],",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری وبا (ویبریو کلرآ) هالوفیل است یا اسموفیل؟",
+                "هالوفیل نسبی (توی دریاها هم هست)"
+            ],
+            "guid": "b5zGx+fz=2",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زمان تزاید اغلب باکتری های بیماری زا چقدر است؟",
+                "24 تا نهایتا 72 ساعت"
+            ],
+            "guid": "q%(9QU/DL1",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری ای که سریعا رشد میکند و در محیط آزمایشگاه استفاده می شود؟",
+                "E. coli"
+            ],
+            "guid": "cI$j+XVAm4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "منحنی رشد باکتری ها شامل چند فاز است چه شکلی دارد؟",
+                "فاز تاخیری Lag<br>Log<br>stationary<br>death<br><img src=\"paste-50b7e7135f98adb60ede83c0fb6572763d62991d.jpg\">"
+            ],
+            "guid": "M<ThwMzD`)",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فازهای منحنی رشد باکتری را از نظر تغییرات تعداد باکتری ها بررسی کنید.",
+                "lag: ثابت / پروتیین سازی<br>log: الگوری تصاعدی&nbsp;<br>stationary: تقسیم انجام میشود اما چون به دلیل متابولیسم و مواد زائد آزاد شده ش مرگ هم داریم تعداد ثابت میمونه<br>death: بخاطر انباشته شدن مواد زائد میمیرن البته 0 نمیشه چون یه تعدادی به قیمت مرگ همه میمونن"
+            ],
+            "guid": "iF_hzY$BgI",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "متابولیسم شامل .... (ساخت ماکرومولکول) و .... (تولید انرژی) است.",
+                "آنابولیسم<br>کاتابولیسم"
+            ],
+            "guid": "NVVz~+1s(/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مسیرهای کاتابولیز گلوکز در طبیعت چیست و کدام تنها در پروکاریوت ها رخ میدهد؟",
+                "1. گلیکولیز<br>2. پنتوز فسفات PP<br>3. کربس یا اسید سیتریک یا تری کربوکسیلیک اسید TCR<br>4. Entner-doudoroff ED (میگن فقط پروکاریوت ولی اخیرا در یوکاریوت ها هم کشف شده)"
+            ],
+            "guid": "ldt`78@t~e",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گلیکولیز شامل چند مرحله است؟ محصولات نهایی اش چیست؟",
+                "10 مرحله<br>2 پیرووات / 4 ATP / 2 NADH"
+            ],
+            "guid": "McA2BEG>K@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "راه های تامین انرژی در موجودات:",
+                "تنفس هوازی (اتمام زنجیره انتقال الکترون با اکسیژن)<br>تنفس بی هوازی (اتمام زنجیره انتقال الکترون با هرچی جز اکسیژن)<br>تخمیر fermentation"
+            ],
+            "guid": "n`;5F1l,rR",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مسیرهای تخمیر در طبیعت:",
+                "homolactic<br>alcoholic<br>mixed acid<br>butylene-glycol<br>propionoc acid"
+            ],
+            "guid": "tF_&$q-/wJ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چه باکتری هایی از مسیر homolactic تخمیری استفاده میکنند؟",
+                "فلورنرمال گوارش<br>استرپتوکوک<br>لاکتوباسیل"
+            ],
+            "guid": "eoy:tENCKJ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "قدیمی ترین مسیر تخمیری چیست؟",
+                "alcoholic"
+            ],
+            "guid": "P}D@Zas,u#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام مسیر تخمیری اغلب در یوکاریوت ها دیده می شود؟",
+                "alcoholic در مخمرها"
+            ],
+            "guid": "M,=MF]3oA{",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محصول نهایی mixed acid و butylene-glycol و propionic acid تخمیری چیست؟",
+                "1. اسید های آلی مختلف + اتانول + هیدروژن + کربن دی اکسید<br>2. بوتیلن گلیکول<br>3. پروپیونیک اسید"
+            ],
+            "guid": "jJcn`n_Ey}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در جنس باسیلوس کدام مسیر تخمیری دیده می شود؟",
+                "butylene-glycol"
+            ],
+            "guid": "l;lz*t~8sM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mixed acid تخمیری در کدام باکتری دیده میشود؟",
+                "e. coli"
+            ],
+            "guid": "QrfMWy,IG5",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در کدام مسیرهای تخمیری الکل تولید میشود؟",
+                "alcoholic<br>mixed acid"
+            ],
+            "guid": "H<DU/~}#l5",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "how many biochemical reactions does TCA have? and how many ATPs does it synthesize?",
+                "8 reactions<br>34 ATPs"
+            ],
+            "guid": "K0%6:E(E+{",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام مسیر کاتالیز گلوکز بیشترین میزان ATP رو تولید میکنه؟",
+                "چرخه کربس TCA"
+            ],
+            "guid": "vvc.j2@~&#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ماده ی شروع کننده ی چرخه کربس همان محصول نهایی گلیکولیز است.",
+                "غلطه شروع کننده چرخه کربس استیل کوآنزیم A هست<br>محصول گلیکولیز پیروواته"
+            ],
+            "guid": "F.ZkNQ2O?4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محصولات نهایی چرخه کربس چیست؟",
+                "34 ATP<br>1 GTP<br>2 NADH<br>1 FADH<br>CO2"
+            ],
+            "guid": "h%`ve+]4BA",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "از موادی که در چرخه کربس تولید می شوند میتوان در تولید ماکرومولکول ها نیز استفاده کرد.",
+                "صحیحه<br>یه سری ترکیبات چند کربنی حد واسط ساخته میشه که ممکنه از چرخه خارج شن و برای تولید سایر مواد مورد نیاز سلول استفاده شن"
+            ],
+            "guid": "t{M;;5sR}@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در مسیر گلیکولیز و چرخه کربس تا زنجیره انتقال الکترون به ازای هر مولکول گلوکز چند مولکول ATP ازاد می شود؟",
+                "38"
+            ],
+            "guid": "JxOwfN.e4u",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چرخه کربس فقط مسیری کاتابولیسمی است.",
+                "خیر کربس آمفی بولیکه هم متابولیسمه هم کاتابولیسم"
+            ],
+            "guid": "L_2TX>70aL",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مسیر پنتوز فسفات جایگزین کدام بخش از مسیر تولید انرژی سلولی می شود؟",
+                "گلیکولیز"
+            ],
+            "guid": "sa(j-K/z4?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محصول نهایی مسیر پنتوز فسفات چیست؟",
+                "یک قند 5 کربنه = ریبولوز 5 فسفات<br>2 NADPH<br>CO2"
+            ],
+            "guid": "m}mdRCu@2:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "از محصولات نهایی مسیر پنتوز فسفات به جز تولید انرژی در چه چیزی استفاده&nbsp; می شود؟",
+                "ساخت RNA, DNA"
+            ],
+            "guid": "mc>!BAvzH,",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2 مزیت مسیر پنتوز فسفات چیست؟",
+                "1. میتواند از پنتوز تولید شده ی نهایی برای تولید انرژی استفاده کند به عنوان ماده اولیه ی همین مسیر<br>2. از محصول نهایی میتوان برای سنتز ماکرومولکول ها نیز استفاده کرد"
+            ],
+            "guid": "sm$j`a?ENz",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "از مسیر ED در کدام باکتری ها استفاده میشود؟",
+                "گرم منفی: سودوموناس / ویبریو&nbsp;<br>گرم مثبت: انتروکوک ها"
+            ],
+            "guid": "ifPC=pXXmT",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بین مسیر های گلیکولیز، پنتوز فسفات و انتنر-دودورف از نظر مقدار انرژی تولیدی مقایسه کنید.",
+                "ED &lt; PP &lt; gycolysis&nbsp;"
+            ],
+            "guid": "B[82,[tzkH",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ژنوم باکتریایی به جز ژن های کروموزومی میتواند شامل چه چیزی باشد؟",
+                "عناصر ژنومی خارج کروموزومی:<br>پلازمید<br>فاژ<br>"
+            ],
+            "guid": "tacG#zD,Ul",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پلازمیدها نیز حاوی اطلاعات حیاتی هستند.",
+                "نه معمولا حاوی قابلیت های ویژه هستند"
+            ],
+            "guid": "e8EZyTB*oZ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بخش غیرکدکننده ی ژن ها چه مسئولیت هایی به عهده دارد؟",
+                "بخش تنظیمی است. میتواند پروموتور یا رپرسور باشد"
+            ],
+            "guid": "?:S4Q>)c/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "رابطه ی<br>RNAپلیمراز وابسته به DNA&nbsp;<br>فاکتور سیگما<br>فعال کننده&nbsp;<br>با فرایند رونویسی از ژن چیست؟",
+                "اتصال فاکتور سیگما به ار ان ای پلیمراز باعث اتصال آنزیم به پروموتور دی ان ای میشود<br>فعال کننده میتواند با اتصال به جایگاه خاصی از دی ان ای رونویسی را تقویت کند<br><img src=\"paste-16f5957b2a69bccec5b4088567b6f6e39b34603e.jpg\">"
+            ],
+            "guid": "Q]x07+[[V9",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کاربرد اپراتور در ژنوم باکتریایی چیست؟",
+                "مهار کننده یا repressor به ان متصل می شود.<br>با اتصال محصول ژن به مهار کننده، مهار کننده به اپراتور متصل می شود و از رونویسی جلوگیری میکند."
+            ],
+            "guid": "qr~#Dd@qH=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mRNA هتروژن چیست؟",
+                "همان mRNA نابالغ است."
+            ],
+            "guid": "A3j?Wg=vn_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در پروکاریوت ها همانند یوکاریوت ها رونویسی و ترجمه از نظر مکانی و زمانی یکسان اند.",
+                "نه. در پروکاریوت ها فقط صحیح است."
+            ],
+            "guid": "GXe3F_t[T",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "توالی انتی کدونی در کدام انتهای tRNA قرار دارد؟",
+                "انتهای 3 پریم"
+            ],
+            "guid": "PzF<ZP@?{Q",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت امینواسید اغازین هر پروتیین حاصل از ترجمه در یوکاریوت ها و پروکاریوت ها چیست؟",
+                "در پروکاریوت ها متیونین فرمیله است و در یوکاریوت ها غیر فرمیله"
+            ],
+            "guid": "fS|pxIRB:l",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "با مصرف چه چیزی زیرواحد های کوچک و بزرگ ریبوزوم به یکدیگر متصل می شوند؟&nbsp;",
+                "با مصرف GTP"
+            ],
+            "guid": "q1m/VBk,#=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ریبوزوم در فرم کامل خود ترجمه را اغاز میکند.",
+                "نه. پس از اتصال جز کوچک به mRNA و سپس اتصال متیونین جز بزرگ نیز متصل می شود."
+            ],
+            "guid": "O]e`b5J&Tv",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پیوند های پپتیدی جدید در کدام جایگاه ریبوزوم تشکیل میشوند؟",
+                "A"
+            ],
+            "guid": "D[9M2Da6S_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "tRNA در کدام جایگاه از آمینواسید جدا میشود؟",
+                "P"
+            ],
+            "guid": "Ku><s$9UkD",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدون ها پایان چیستند؟",
+                "UAG<br>UGA<br>UAA"
+            ],
+            "guid": "vc5#G*eHnj",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آخرین پروتیین موجود در جایگاه A ریبوزوم چیست؟",
+                "فاکتور رها کننده"
+            ],
+            "guid": "fgzy4:s$S#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پپتید ساخته شده در ریبوزوم از کدام جایگاه ازاد میشود؟",
+                "P"
+            ],
+            "guid": "soHqcH+e,x",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جدا شدن زیرواحد های ریبوزومی نیاز به مصرف انرژی دارد.",
+                "بله GTP میسوزه"
+            ],
+            "guid": "D7R2Pw1~Ce",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چند بار DNA توسط DNAپلیمراز برای تصحیح خطا چک می شود؟",
+                "2 بار<br>یه بار همزمان با همانندسازی و یه بار پس از اتمام همانندسازی"
+            ],
+            "guid": "y-hn*Gqv:q",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "احتمال ایجاد جهش به چه علت در پروکاریوت ها بیشتر است؟",
+                "چون سبب ایجاد تنوع میشه و احتمال بقا رو بالا میبره"
+            ],
+            "guid": "G]RS8y32_;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع جهش تغییر یک باز آلی منفرد چیست و چه تفاوتی دارند؟",
+                "sigle base change<br>1. انتقالی: یه باز به جای یه باز دیگه(نوعش فرقی نداره)<br>2. تقاطعی: یه پورین به جای یه پیریمیدین یا برعکس<br>(اگه نوع باز عوض شه تقاطعیه وگرنه انتقالیه)"
+            ],
+            "guid": "tmy07W`7Q2",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جهش خاموش نوعی جهش باز منفرد است.",
+                "بله که آمینواسید مرتبط با کد عوض نشده"
+            ],
+            "guid": "t@w=;0J{2C",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در جهش خاموش معمولا کدام باز در کد تغییر میکند؟",
+                "باز سوم<br>(یعنی اگه باز اول و دوم یکی باشن احتمالا هر دو کد مرتبط با یک امینو اسیدن)"
+            ],
+            "guid": "tOyEHO?SsB",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جهش بد معنی چیست؟",
+                "missense<br>امینو اسید عوض میشه ولی شکل کلی پروتیین عوض نمیشه"
+            ],
+            "guid": "jFbRpWpKu+",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جهش بی معنی چیست؟",
+                "یه امینو اسید به کدون پایان تبدیل میشه و پپتید نهایی فاقد عملکرد میشه"
+            ],
+            "guid": "EBeS+j8,}:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جهش تغییر چارچوب چیست؟",
+                "frameshift<br>تعدادی نوکلئوتید که ضریب 3 نیستن حذف یا اضافه شن یا نقطه آغاز ترجمه عوض شه (میتونه نتیجه ی تغییر یک باز باشه)"
+            ],
+            "guid": "vjJXnbp,@J",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جهش پوچ چیست؟",
+                "null<br>یه توالی بزرگ از کروموزوم دچار تغییر میشه (حذف یا اضافه یا جا به جا یا دچار تغییر ارایش میشه) و ساختار کلی کروموزوم به هم میریزه."
+            ],
+            "guid": "Dn`b-6@.Y{",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جهش شرطی چیه؟",
+                "وابسته به دما یا کلا عوامل محیطی عملکرد پروتیین عوض شه"
+            ],
+            "guid": "gE)n=TH4q[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عناصر ژنتیکی متحرک را نام ببرید:",
+                "پلازمید<br>فاژ<br>ژن های پرنده transposon"
+            ],
+            "guid": "F>_EFoXfmu",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنها باکتری دارای پلازمید خطی چیست؟",
+                "بورلیا بورکدورفری"
+            ],
+            "guid": "e@{&$>oZW;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "حضور پلازمید در باکتری میتواند سبب ایجاد گونه ی جدید شود.",
+                "نه<br>سویه جدید"
+            ],
+            "guid": "oU*f?i]Tg6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ایا پلازمید توانایی ادغام شدن با کروموزوم باکتریایی را دارد؟",
+                "بله<br>وقتی ادغام شه بهش میگن اپیزوم<br><img src=\"paste-508839914557b19017e6d0f256ea56a85d6bbbef.jpg\">"
+            ],
+            "guid": "EGT~3F>~#-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "یک پلازمید با قابلیت تبدیل شدن به اپیزوم نام ببرید",
+                "پلازمید F باکتری E. coli"
+            ],
+            "guid": "v[b;H-lFh6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هر باکتری دارای حداکثر یک پلازمید است",
+                "غلطه<br>میتونه تا 50 تا پلازمید کوچیک هم داشته باشه"
+            ],
+            "guid": "v>wjOm.v0]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتریوفاژ یا فاژ ها چین؟",
+                "ویروس هایین که به باکتری حمله میکنن"
+            ],
+            "guid": "mcoFk0ualP",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو نوع چرخه ای که نتیجه ی حمله ی باکتریوفاژ به باکتری هستند را توضیح دهید.",
+                "1. لیتیک lytic یا کشنده: ژنوم ویروس وارد میشه و داخل باکتری تکثیر میشه و باکتری رو لیز میکنه و آزاد میشه<br>2. لیزوژنیک lysogenic: ژنوم ویروس وارد ژنوم باکتری میشه و با هر بار همانندسازی به باکتری های دختر منتقل میشه"
+            ],
+            "guid": "omHu4f2o+Z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "منشا سم باکتری کورینه باکتریوم دیفتریا چیست؟",
+                "باکتریوفاژی به نام کورینفاژ<br>عامل اصلی ایجاد کننده بیماری دیفتری همین سمه"
+            ],
+            "guid": "PLR^Qvpw8s",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is transposon?",
+                "توالی های اسید نوکلئیکی که از یه بخش توالی DNA&nbsp; میتونن به یه بخش دیگه از همون DNA یا یه DNA دیگه برن"
+            ],
+            "guid": "c0f`m!]>1s",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع transposon ها:",
+                "ساده Insertion sequence I.S: توالی های کوچیک که فقط آنزیم ترنسپوزاز رو کد میکنن و یه بخش غیرکدکننده دارن<br>پیچیده: بزرگتر که دارای ژن آنزیم ترنسپوزاز و ژن های دیگه هستن"
+            ],
+            "guid": "hsIlfa%eW]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I.Sها چجوری ممکنه باعث مرگ باکتری بشن؟",
+                "وارد قسمتی از توالی کد کننده ژنتیکی بشن که مسئول تولید پروتیین ضروری سلول است و آن ژن رو غیرفعال کنن."
+            ],
+            "guid": "zg*/8H?$KP",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 مکانیسم تبادل ژنی باکتری ها را نام ببرید:",
+                "1. ترانسفورماسیون transformation<br>2. هم یوغی conjugation<br>3. ترانسداکسیون transduction"
+            ],
+            "guid": "oUT<]c$_iW",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "به فرایندی که طی آن اگزوژن ها از محیط خارج وارد ژنوم باکتری می شود چی میگن؟",
+                "ترانسفورماسیون"
+            ],
+            "guid": "rt[T^>X43p",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ژن کپسول معمولا از چه طریقی وارد سویه بدون کپسول باکتری می شود؟",
+                "ترانسفورماسیون"
+            ],
+            "guid": "iLg_2K+XE;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چه باکتری هایی دارای ترانسفورماسیون طبیعی هستند؟",
+                "پنوموکوک / هموفیلوس آنفلوآنزا / استرپتوکوکوس نومونیا / باسیلوس / نایسریا"
+            ],
+            "guid": "vX,|YnPGp}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری E. coli با ترانسفورماسیون طبیعی ژن ساخت انسولین را دریافت میکند؟",
+                "نه ترانسفورماسیون زوریه"
+            ],
+            "guid": "dT4*Gg+;3:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پلازمید F به چه علت اینجوری نام گذاری شده؟ و کارش چیه؟",
+                "چون دارای فاکتور F(ertility factor) است<br>پیلی جنسی رو کد میکنه"
+            ],
+            "guid": "(8ap%>8~M",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در هم یوغی چند باکتری نقش دارند و چگونه با هم ارتباط برقرار میکنن؟",
+                "دو تا&nbsp;<br>با پیلی جنسی"
+            ],
+            "guid": "Fy8YgGW_~v",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اگر پلازمید F تبدیل به اپیزوم شه چی میشه؟",
+                "سویه F+ به سویه Hfr تبدیل میشه<br>سویه Hfr توانایی هم یوغی داره ولی موثر نیست چون پروسه ی انتقال پلازمید طولانی میشه."
+            ],
+            "guid": "hzT4lz_ulF",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اگر سویه Hfr یوغی انجام دهد چی میشه؟",
+                "هم یوغی موفقیت امیز نمیشه<br>پلازمید F درحال خروج از کروموزوم مقداری از کروموزوم رو هم با خودش جدا میکنه و باکتری به سویه F' تبدیل میشه<br>ممکنم هست که با انتقال این پلازمید جدید از طریق هم یوغی اون یکی باکتری رو هم به سویه F' تبدیل کنه."
+            ],
+            "guid": "AAp0]D3PE4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سویه ها&nbsp;<br>عادی<br>F+<br>Hfr<br>F'",
+                "<img src=\"paste-feb484e18c1a9cf5201b6ade05a1f6c832f38ed4.jpg\">"
+            ],
+            "guid": "cC/qaZmq=[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is transduction?",
+                "انتقال ژن از طریق باکتریوفاژ ها در چرخه لیزوژنیک"
+            ],
+            "guid": "G{pt7p!?#7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت sterilization با disinfection چیست؟",
+                "sterilization تمام اشکال حیات میکروبی رو از بین میبره<br>disinfection سطوح بی جان رو از میکروب های بیماری زا پاک میکنه"
+            ],
+            "guid": "N#j@#0t=lo",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت disinfectant و antiseptic چیست؟",
+                "هر دو عوامل شیمیایی هستند<br>disinfectant سطوح بی جان رو از میکروب های بیماری زا پاک میکنه<br>antiseptic سطوح جان دار (بافت) رو از میکروب های بیماری زا پاک میکنه"
+            ],
+            "guid": "MqSHzTg/7B",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "معنی aseptic چیست",
+                "ویژگی ای که بیانگر فاقد هرگونه میکروب بیماری زا بودنه"
+            ],
+            "guid": "yT3-gnn3-e",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت پسوند های cide &amp; static",
+                "-cide: میکروب رو میکشه یعنی روی ویژگی های حیاتیش مثل دیواره سلولی اثر گذاره<br>-static: رشد میکروب رو متوقف میکنه یعنی روی چیزهایی مثل فرایند پروتیین سازی اثرگذاره"
+            ],
+            "guid": "ypke1hpI)9",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دما روی میزان تاثیر disinfection/sterilization اثر گذاره.",
+                "بله دما و حتی ph محیط روش اثر میذاره"
+            ],
+            "guid": "h,+4CMe;Xf",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "disinfectant ها حتما باید فاقد بو باشن",
+                "ایده ال اینه که بی بو باشن"
+            ],
+            "guid": "PTY%~Ck(YB",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ماندگاری disinfectant ها از معیارهای مهم ان هاست",
+                "بله<br>مهمه که ماندگاری خوبی داشته باشن که دائما مجبور به استفاده از ان ها نباشیم"
+            ],
+            "guid": "M<T8-!}yq1",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سرعت عمل disinfectant ها مهم است؟",
+                "بله<br>برای محیط های در معرض عفونت شدید مثل بیمارستان خیلی مهمه که سریع عمل کنن"
+            ],
+            "guid": "jc1hpS+XNr",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what are methods of sterilisation?",
+                "1. فیزیکی<br>2. مکانیکی<br>3. شیمیایی"
+            ],
+            "guid": "G0{QIF]yLK",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "روش های فیزیکی sterilisation:",
+                "1. حرارت<br>2. اشعه"
+            ],
+            "guid": "B<XTe83swz",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع حرارت مورد استفاده برای sterilisation را توضیح دهید:",
+                "1. خشک: شعله / هوای داغ (oven) / سوزاندن"
+            ],
+            "guid": "mj/83#>9Mn",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هر مدل از انواع حرارت مورد استفاده برای sterilisation برای چه چیزی استفاده می شود؟",
+                "Dry:<br>&nbsp; &nbsp;flaming: برای لوپ عمدتا در ازمایشگاه<br>&nbsp; &nbsp;oven: وسایل (جراحی و عینک و اینا) + مواد شیمیایی مثل چربی و پارافین<br>&nbsp; &nbsp; incineration سوزاندن: لباس ها / زباله های زیستی<br>Moist:<br>&nbsp; &nbsp; جوشاندن: وسایل فلزی مثل جراحی و سوزن و اینا<br>&nbsp; &nbsp; autoclaving: وسایل قابل اشتعال / محیط کشت / محلول ها / وسایل شیشه ای و تجهیزات"
+            ],
+            "guid": "t~KJrN&fl5",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "برای چه مدت در چه دمایی باید از اتوکلاو استفاده شود؟",
+                "15-20 دقیقه در دمای 121 درجه"
+            ],
+            "guid": "AQfVU7X{!S",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "برای استرلیزه شدن باید مدت زمان بیشتری در معرض گرمای خشک باشن یا مرطوب؟",
+                "با گرمای مرطوب به زمان خیلی کمتری نیازه"
+            ],
+            "guid": "Fkr`d(DgAr",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع اشعه های مورد استفاده در sterilisation چیست؟",
+                "یونیزان: X-ray / gamma<br>غیریونیزان: UV / infrared"
+            ],
+            "guid": "m&(CpDV~CQ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نحوه عملکرد اشعه ها برای sterilisation:",
+                "اسیب به DNA"
+            ],
+            "guid": "tO*}5^;~yt",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت انواع اشعه ها برای&nbsp; sterilisation:",
+                "یونیزان: برای تجهیزات و مواد (مثل انتی بیوتیک) / نفوذ بالا / قیمت بالا<br>غیریونیزان: برای سطوح / نفوذ کم / قیمت پایین / خطرناک"
+            ],
+            "guid": "hxExV6eTH-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل مکانیکی sterilisation چیست و برای چه مواردی استفاده میشود؟",
+                "فیلتراسیون<br>برای موادی که قابل اتوکلاو کردن نباشن"
+            ],
+            "guid": "HSDdk<|;In",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت level های متفاوت disinfectant:",
+                "high-level: تمام باکتری ها + اسپورها<br>intermediate-level: حتی باکتری های عامل سل (اسپور نه)<br>low-level: نه اسپور و نه عامل سل / سایر میکروب ها"
+            ],
+            "guid": "G(u:H7Cq]c",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تجهیزات را براساس اهمیتشان در sterilisation دسته بندی کنید و نوع disinfectant مورد نیاز را مشخص کنید:",
+                "critical: وسایل جراحی که در تماس زیاد و مستقیم با بافت های درونی بدن هستند =&gt; high-level<br>semi-critical: در تماس با مخاط بدن و حتی خون =&gt; high-level<br>non-critical: وسایلی که با پوست برهنه در تماسن و ریسک عفونت پایینی دارن =&gt; low-level"
+            ],
+            "guid": "K3AR3mf|sX",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مکانیسم عمل هرکدام از مواد شیمیایی زیر را مشخص کنید:<br>surfactant<br>heavy metal<br>halogen<br>alcohol<br>phenolic<br>aldehyde<br>ethylene oxide<br>oxidizing agents",
+                "ایجاد مشکل در غشا<br>تخریب پروتیین<br>ایجاد مشکل در غشا<br>تخریب پروتیین و چربی<br>ایجاد مشکل در غشا<br>تخریب پروتیین<br>تخریب پروتیین<br>تخریب پروتیین<br><img src=\"paste-5c477bb0a5e4c812d51c4162f5fe9954faed1d32.jpg\">"
+            ],
+            "guid": "P@-Je(qA3Q",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مواد شیمیایی که هم antiseptic هستند و هم disinfectant:",
+                "heavy metal<br>halogen<br>alcohol<br>oxidizing agents"
+            ],
+            "guid": "D8_@)r3iSb",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کاربرد phenolic ها و ethyiene oxide و aldehydes چیست؟",
+                "phenolic: disinfectant<br>aldehydes: disinfectant<br>ethylene oxide: برای استرلیزه کردن فضاهای بسته"
+            ],
+            "guid": "l.876=<OU9",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مثالی از هرکدام از موارد زیر بزنید:<br>surfactant<br>heavy metal<br>halogen<br>alcohol<br>phenolic<br>aldehyde<br>ethylene oxide<br>oxidizing agents",
+                "<img src=\"paste-a3f23eaa32083c4330e70970d1c090986581f882.jpg\">"
+            ],
+            "guid": "m&<x|Kj7E-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بتادین antiseptic است؟",
+                "بله<br>برای بافت هم استفاده میشه دیگه"
+            ],
+            "guid": "pn?`iGFG>@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هیدروژن پراکسید (آب اکسیژنه) antiseptic است یا disinfectant?",
+                "هردو"
+            ],
+            "guid": "oI*5V~}^,?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چه ماده شیمیایی اثر high-level دارد؟",
+                "glutar<span style=\"background-color: rgb(85, 0, 0);\">aldehyde</span>"
+            ],
+            "guid": "e-Q6+41XP;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "الکل از نظر اثر گذاری چگونه است؟",
+                "intermediate-level همه چی جز اسپور"
+            ],
+            "guid": "Fd68jB-S>i",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "antiseptic ها توانایی از بین بردن اسپورها را ندارند.",
+                "درسته"
+            ],
+            "guid": "HcV|{O%qb/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::image-occlusion:rect:left=.3488:top=.1273:width=.0838:height=.8513:oi=1}}<br>{{c1::image-occlusion:rect:left=.4835:top=.1362:width=.1198:height=.8379:oi=1}}<br>{{c1::image-occlusion:rect:left=.6607:top=.134:width=.1142:height=.8361:oi=1}}<br>{{c1::image-occlusion:rect:left=.8519:top=.1512:width=.0495:height=.8304:oi=1}}<br>{{c1::image-occlusion:rect:left=.95:top=.1397:width=.0381:height=.8476:oi=1}}<br>",
+                "<img src=\"paste-04f5a93e4d9d9638ce2197e667908bca2d763375.jpg\">",
+                "",
+                "",
+                ""
+            ],
+            "guid": "cMOL>Q!te8",
+            "note_model_uuid": "f19a8517-ef6f-11ef-9908-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری فرصت طلب بسیار مهم:",
+                "سودوموناس&nbsp;آئروژینوزا"
+            ],
+            "guid": "jyq|Q;X!6V",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل طاعون:",
+                "یرسینیا پستیس"
+            ],
+            "guid": "uu&CqB[[Fi",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویرولانس چیست؟",
+                "قدرت بیماری زایی عامل عفونی"
+            ],
+            "guid": "wKK%5Oa9h6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دوز عفونی و دوز کشنده",
+                "Lethal Dose = LD50: تعداد ارگانیسم های لازم برای مرگ نصف سلول ها<br>Infectious Dose = ID50: تعداد ارگانیسم های لازم برای عفونی کردن 50 درصد سلول ها"
+            ],
+            "guid": "pqX};M07~G",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عوامل ویرولانس باکتری ها:",
+                "اگزوتوکسین<br>اندوتوکسین<br>کپسول<br>پیلی<br>آنزیم ها و مواد ترشحی<br>فلاژل<br>آنتی ژن های سطحی"
+            ],
+            "guid": "im)5U)>hmg",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اگزوتوکسین ها سمی ترن یا اندوتوکسین ها؟",
+                "اگزوتوکسین ها چون اندوتوکسین ها نباید برای خود باکتری سمی باشن حداقل"
+            ],
+            "guid": "pd3~6V4Q`p",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 باکتری که از طریق خوراکی ایجاد بیماری میکنن:",
+                "سالمونلا<br>ویبریو (وبا)<br>بروسلا<br><img src=\"paste-93c8a3986b45593ec146f7f6a26efb333cc62c61.jpg\">"
+            ],
+            "guid": "gua`mk!2a-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 باکتری که از طریق تنفس ایجاد بیماری میکنند:",
+                "مایکوباکتریوم (سل)<br>بوردتلا (سیاه سرفه)<br>کلامیدیا پنومونیه<br><img src=\"paste-93c8a3986b45593ec146f7f6a26efb333cc62c61.jpg\">"
+            ],
+            "guid": "Ady]yxpZeC",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری ها بیشتر از طریق سوزن الوده منتقل می شوند یا ویروس ها؟ یک باکتری مثال بزنید.",
+                "ویروس ها (ایدز و هپاتیت)<br>سودوموناس<br><img src=\"paste-93c8a3986b45593ec146f7f6a26efb333cc62c61.jpg\">"
+            ],
+            "guid": "w$%UcXQlv]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو باکتری که از طریق نیش منتقل می شوند:",
+                "ریکتسیا (آمریکا)<br>یرسینیا پستیس (طاعون)<br><img src=\"paste-93c8a3986b45593ec146f7f6a26efb333cc62c61.jpg\">"
+            ],
+            "guid": "Lf9!I(~##i",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 باکتری که از طریق ارتباط جنسی منتقل می شوند:",
+                "نایسریا گنوره آ (سوزاک)<br>کلامیدیا تراکوماتیس (اورتریت)<br>ترپونما پالیدوم (سیفلیس)<br><img src=\"paste-93c8a3986b45593ec146f7f6a26efb333cc62c61.jpg\">"
+            ],
+            "guid": "M$i==xsuKM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نحوه اتصال هر یک از باکتری های زیر به میزبان را مشخص کنید:<br>استاف اورئوس<br>اشرشیا کلای<br>نایسریا گنوره آ<br>ویبریو کلرا",
+                "LTA (بعضی سوش هاش از طریق کپسول)<br>type 1 Fimbriae (پیلی) + P fimbriae<br>fimbriae (پیلی)<br>type 4 Pili"
+            ],
+            "guid": "CeB^J)1DIF",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "P fimbriae بیشتر در چه عفونت هایی دخیله؟",
+                "ادراری"
+            ],
+            "guid": "E^|*e10$x$",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4 نوع آنزیم ترشحی باکتری ها را نام ببرید و کاربرد هرکدام را مشخص کنید:",
+                "موسیناز: موسینو حل میکنه و باکتری دسترسی بهتری به مخاط پیدا میکنه.<br>کوآگولاز: دور باکتری ایجاد لخته میکنه و باکتری رو از سیستم ایمنی و تاثیر انتی بیوتیک ها دور میکنه.<br>کاتالاز: هیدروژن پراکسید داخل گرانول ماکروفاژ رو تجزیه میکنه و جلوی فاگوسیتوز رو میگیره.<br>بتالاکتاماز: جلوی عملکرد پنی سیلین رو میگیره"
+            ],
+            "guid": "G87&_$@>6:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت های اندوتوکسین و اگزوتوکسین رو از جنبه های زیر بررسی کنید:<br>جنس<br>قسمتی از باکتری / ماده ترشحی باکتری<br>مقاوم به گرما<br>تحریک اختصاصی<br>بسیار سمی / سمیت متنوع<br>toxoidable",
+                "اندوتوکسین = LPS / اگزوتوکسین = پروتیین<br>اگزوتوکسین ترشحیه<br>اندوتوکسین به گرما مقاومه<br>اگزوتوکسین اختصاصیه<br>اگزوتوکسین خیلی سمیه<br>اگزوتوکسین toxoidableه"
+            ],
+            "guid": "j{;:c:K)Yb",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what does it mean to be toxoidable?",
+                "یعنی در مواجهه با فرم آلدهید 1% تبدیل به توکسویید شن که میشه ازش واکسن خیلی خوبی تولید کرد"
+            ],
+            "guid": "v[G(f%-}BY",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو بیماری با واکسن توکسوییدی مثال بزنید؟ این بیماری ها از طریق اندوتوکسین بیماری زایی میکنن یا اگزوتوکسین؟",
+                "کزاز + دیفتری<br>اگزوتوکسین"
+            ],
+            "guid": "F.pTm!8;TD",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مکانیسم های مقابله با سیستم ایمنی (11 تا)",
+                "EAAA-PDIII-RI<br>کپسول<br>تقلید از انتی ژن بدن<br>پوشاندن آنتی ژن<br>تغییر شکل آنتی ژن<br>ساختن پروتئاز هایی برعلیه آنتی بادی<br>تخریب فاگوسیت ها<br>مهار کموتاکسی (مهار ورودی نوتروفیل ها به محل)<br>مهار فرایند فاگوسیتوزیس<br>مهار ادغام فاگوزوم و لیزوزوم<br>مقاومت در برابر انزیم های لیزوزومی<br>تکثیر درون سلولی<br><img src=\"paste-49d5b461ef04992c8b45bebb5899d4413ed291d5.jpg\">"
+            ],
+            "guid": "tMzYF%?NKr",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چه باکتری هایی هر یک از توانایی های زیر را دارند؟<br>تقلید از انتی ژن بدن<br>تغییر شکل آنتی ژن<br>ساختن پروتئاز بر علیه آنتی بادی<br>مهار فرایند فاگوسیتوسیس<br>مهار ترکیب شدن فاگوزوم با لیزوزوم<br>مقاومت در برابر انزیم های لیزوزومی<br>تکثیر درون سلولی",
+                "استرپتوکوک گروه A<br>عامل سوزاک = نایسریا گنوره آ<br>اونایی که پروتئاز IgA میسازن<br>اونایی که کاتالاز دارن<br>لژیونلا<br>سالمونلا<br>سالمونلا + شیگلا"
+            ],
+            "guid": "wcS%HGAeUr",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری های درون سلولی را نام ببرید (9 مورد)",
+                "مایکوباکتریوم (سل)<br>بروسلا (تب مالت)<br>ریکتسیا (تب کوه های راکی)<br>کلامیدیا<br>سالمونلا تایفی<br>شیگلا<br>یرسینیا پستیس<br>لژیونلا<br>لیستریا مونوسایتوژنز<br><img src=\"paste-08a6b17f281a9cbe29c67023a1e68645b20d9ea7.jpg\">"
+            ],
+            "guid": "KNR*2`1{wp",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مدل مطالعاتی باکتری های درون سلولی:",
+                "لیستریا مونوسایتوژنز"
+            ],
+            "guid": "Ukny7Dd4.",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنها باکتری درون سلولی که با coiling فاگوسیت میشه:",
+                "لژیونلا<br><img src=\"paste-d5ec15a7644b4678214b054d66dfab7d8504cc61.jpg\">"
+            ],
+            "guid": "E,ks%/D5Dp",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در چه بیماری ای از واکسن برای درمان نیز استفاده میشود؟",
+                "کزاز"
+            ],
+            "guid": "t,#>->j;6X",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع واکسن هایی که از فرم غیرفعال میکروب استفاده میکنند را مشخص کنید: (+مثال)",
+                "باکتری یا ویروس کشته شده (کرونا)<br>بخشی از میکروب (هپاتیت B)<br>پپتید یا پلی ساکارید<br>توکسوییدی (کزاز و دیفتری)"
+            ],
+            "guid": "A|>01pEk/a",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع واکسن های گرفته شده از میکروب زنده: (+مثال)",
+                "ضعیف شده (سینوفارم)<br>هیبریدی که چند تا میکروبو قاطی میکنن (استرازنکا)<br>سوش های ضعیف تر (سالمونلا) (خیلی واکسنای مطرحی نیستن)"
+            ],
+            "guid": "m`K90(ErU3",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "واکسن هایی که از فرم های ضعیف شده میکروب استفاده میکنند دارای چه ویژگی هایی هستند؟",
+                "به سرما عادت دارن<br>میزبان های کمتری دارن<br>به دما حساسن<br>از نظر ژنتیکی تغییر یافته ن"
+            ],
+            "guid": "H|fuwjg1;?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "واکسن های باکتری های زیر از چه نوعی است؟<br><img src=\"paste-ac8be1cf5d7ff98ac34c852d247709c872c9878a.jpg\"><br>طاعون<br>مایکوباکتریوم توبرکلوسیس",
+                "<img src=\"paste-f2c8eac62c1139be34f5680dd70ae0bd6f01abe4.jpg\"><br>سلول کشته شده<br>سوش گاوی ضعیف"
+            ],
+            "guid": "wanY9w|HZ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فلور طبیعی هر ناحیه زیر را نام ببرید:<br>پوست<br>بینی<br>دهان<br>دندان<br>لثه<br>گلو<br>کولون<br>واژن",
+                "استافیلوکوکوس اپیدرمیس<br>استافیلوکوکوس اپیدرمیس + استاف اورئوس<br>ویریدنس استرپتوکوکسی<br>استرپتوکوکوس موتانس<br>انواعی بی هوازی<br>ویریدنس استرپتوکوکسی<br>باکتریودس فرجیلیس + اشرشیا کلای + کلستریدیوم<br>لاکتوباسیلوس + اشرشیا کلای + گروه b استرپتوکوکسی<br><img src=\"paste-6f4917c4bdaf309208e46dc78c70ce274b9911a3.jpg\">"
+            ],
+            "guid": "OlE$jB%zI=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "غالب ترین بی هوازی اجبازی و بی هوازی اختیاری در فلور طبیعی بدن چه باکتری هایی هستند؟",
+                "بی هوازی اجباری = bacteriodes fragilis<br>بی هوازی اختیاری = اشرشیا کلای"
+            ],
+            "guid": "D4neFRg//Y",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "قارچی که در واژن با برهم خوردن فلور طبیعی بیماری زایی میکند در فلور طبیعی کدام اندام وجود دارد؟",
+                "کولون (مخمر کاندیدا البی کنس)"
+            ],
+            "guid": "nVN>}jkQq4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فایده ی لاکتوباسیلوس برای واژن:",
+                "با تولید اسید لاکتیک محیط رو برای پاتوژن هایی نظیر مخمر کاندیدا البی کنس غیرقابل سکونت میکند"
+            ],
+            "guid": "yZUlh):P/w",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ناحیه تحتانی تنفس استریل است",
+                "درسته"
+            ],
+            "guid": "beNk,[~2j0",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مهمترین ارگانیسم بینی چیست؟",
+                "استافیلوکوک اورئوس"
+            ],
+            "guid": "q,I`*oxOO~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فلور کدام قسمت بدن با اندوکارد قلب در ارتباط است؟",
+                "دهان"
+            ],
+            "guid": "wt.TD!Cn83",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام ارگان های گوارشی استریل هستند؟",
+                "کبد + طحال + کیسه صفرا"
+            ],
+            "guid": "fRoxxb!@!S",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کیسه صفرا در شرایط خاص میتواند چه باکتری ای را به عنوان فلور نگه دارد؟",
+                "سالمونلا"
+            ],
+            "guid": "d[tW)>%K>`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "معده به علت حضور اسید استریل است",
+                "غلطه<br>انتهای معده تعداد کمی ارگانیسم داره"
+            ],
+            "guid": "m[WVoTWFAQ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چند درصد مدفوع را میکروب تشکیل میدهد؟",
+                "20"
+            ],
+            "guid": "IDwVmADg79",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کلیندا مایسین پس از ده روز مصرف مداوم چه اثری میذاره؟",
+                "باکتری های بی هوازی روده رو کم میکنه<br>کلستریدیوم دیفیسیل زیاد میشه پررو میشه سم تولید میکنه"
+            ],
+            "guid": "kB4]|$nk8b",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تاثیر یائسگی بر ph واژن:",
+                "استروژن کم میشه<br>لاکتوباسیل ها کم میشن<br>ph زیاد میشه"
+            ],
+            "guid": "cUfc9>udC<",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
             "tags": []
         }
